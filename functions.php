@@ -73,6 +73,11 @@ function daffodil_setup() {
 	register_nav_menus( array(
 		'primary' => __( 'Primary Menu', 'daffodil' ),
 	) );
+
+	/**
+	 * Language
+	 */
+	load_theme_textdomain('daffodil', get_template_directory() . '/languages');
 }
 endif; // daffodil_setup
 

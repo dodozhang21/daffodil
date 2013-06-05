@@ -4,6 +4,7 @@ Version History:
 
 version 1.1.0 - Support wordpress 3.5.1 and made it responsive. Compatible with jetback infinite scroll.
 version 1.1.7 - Modified the featured image styling. Made tinyNav resize friendly.
+version 1.1.13 - Makes the theme translation ready
 
 --------------------------------------------------------------------------------
 For support, 
